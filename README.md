@@ -5,3 +5,5 @@ Alpine Linux is a Linux distribution built around musl libc and BusyBox. The ima
 # how to build docker and run docker image
 * docker build -t myapp . 
 * docker run -p -it 8080:3000 myapp
+# Directory structure
+put you docker file in *root* and all the application file in *app* folder
