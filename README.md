@@ -9,3 +9,6 @@ Alpine Linux is a Linux distribution built around musl libc and BusyBox. The ima
 * docker run -p -it 8080:3000 myapp
 # Directory structure
 put you docker file in *root* and all the application file in *app* folder
+
+
+![Directory Structure](https://github.com/Adiii717/Node_DockerFile/blob/master/directory.png)
